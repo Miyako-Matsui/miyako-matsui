@@ -1,6 +1,6 @@
 ### Kio ora 🌿 Welcome to my github page!
 
-- 👋 Hi, I’m Miyako 
+- 👋 Hi, I’m Mimi. 
 - 👩🏻‍🎓 I graduated from Dev Academy Aotearoa in New Zealand.
 - 👓 I’m currently working on building an e-commerce website called Mimi's Jewellery using NodeJS and React
 - 🌸 I’m currently learning full-stack software development
